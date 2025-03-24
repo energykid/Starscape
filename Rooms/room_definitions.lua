@@ -1,0 +1,10 @@
+add_rooms_to("Starscape/Rooms/starcryer_1ver.roo", "miniboss1.roo")
+add_rooms_to("Starscape/Rooms/starcryer.roo", "miniboss3.roo")
+add_rooms_to("Starscape/Rooms/starcryer.roo", "miniboss4.roo")
+add_rooms_to("Starscape/Rooms/starcryer.roo", "miniboss5.roo")
+
+add_rooms_to("Starscape/Rooms/starcryer_1ver.roo", "rooms1.roo")
+add_rooms_to("Starscape/Rooms/star_ghosts.roo", "rooms2.roo")
+add_rooms_to("Starscape/Rooms/star_ghosts.roo", "rooms3.roo")
+add_rooms_to("Starscape/Rooms/star_ghosts.roo", "rooms4.roo")
+add_rooms_to("Starscape/Rooms/star_ghosts.roo", "rooms5.roo")
